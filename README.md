@@ -1,6 +1,6 @@
 # ElectricDischargeInsectControlSystem
 
-##Introduction
+## Introduction
 AIM: To design an electric mesh that can prevent the insects from entering the closed premises and can protect humans from them. Before we dwell into the project, let's first understand importance of it and know a bit of history.
 
 The Mosquito netting has a long history, and its known as one of the first forms of protection used. It is said that Cleopatra, the last active pharaoh of Ancient Egypt, also slept under a mosquito net. Mosquito nets were also used during the malaria-plagued construction of the Suez Canal. As the time passed, a few more insect repellents came into existence, but one of the things which is widely used in households other than mosquito nets or mesh is a Mosquito Killer Racket. A Taiwanese
